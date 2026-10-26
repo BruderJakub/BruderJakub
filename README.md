@@ -71,6 +71,10 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruderJakub&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruderJakub&theme=tokyonight" alt="BruderJakub" />
 </p>
 
